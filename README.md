@@ -1,1 +1,1 @@
-[github-pages](https://nishimura178.github.io/md/docs/sample)
+[github-pages](https://nishimura178.github.io/md/docs/a)
